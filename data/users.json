@@ -1,0 +1,176 @@
+[
+  {
+    "user_id": 1,
+    "favorite_colors": [
+      "dimgray",
+      "darkgray",
+      "darkslategray"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "green",
+      "animal",
+      "wildlife"
+    ],
+    "prefered_images": [
+      "animaux__9a-3NO5KJE.jpg",
+      "animaux_6GMq7AGxNbE.jpg",
+      "animaux_bKhETeDV1WM.jpg",
+      "paysage_Bkci_8qcdvQ.jpg",
+      "animaux_Tk71SYS8UBY.jpg",
+      "batiments_opFPVxMRpP8.jpg",
+      "paysage_r9RW20TrQ0Y.jpg",
+      "paysage_TRhGEGdw-YY.jpg",
+      "animaux_XWTNFVCTS8E.jpg",
+      "animaux_XN_CrZWxGDM.jpg",
+      "paysage_T7K4aEPoGGk.jpg"
+    ]
+  },
+  {
+    "user_id": 2,
+    "favorite_colors": [
+      "darkslategray",
+      "lightgray",
+      "dimgray"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "architecture",
+      "wallpaper",
+      "grey"
+    ],
+    "prefered_images": [
+      "paysage_zAjdgNXsMeg.jpg",
+      "batiments_T5nXYXCf50I.jpg",
+      "batiments_QdAAasrZhdk.jpg",
+      "paysage_73F4pKoUkM0.jpg",
+      "batiments_o-dkYSvidB4.jpg",
+      "batiments_l5Tzv1alcps.jpg",
+      "batiments_-HIiNFXcbtQ.jpg",
+      "batiments_sRaRlaFQolw.jpg",
+      "batiments_VviFtDJakYk.jpg",
+      "paysage_t7YycgAoVSw.jpg"
+    ]
+  },
+  {
+    "user_id": 3,
+    "favorite_colors": [
+      "darkslategray",
+      "dimgray",
+      "darkgray"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "grey",
+      "architecture",
+      "minimal"
+    ],
+    "prefered_images": [
+      "paysage_NRQV-hBF10M.jpg",
+      "animaux_CS5vT_Kin3E.jpg",
+      "animaux_I3C1sSXj1i8.jpg",
+      "animaux_jNtv6K1RFek.jpg",
+      "batiments_Lk-nu_hX6ms.jpg",
+      "batiments_Sfn8f32ZIj0.jpg",
+      "paysage_Gg7uKdHFb_c.jpg",
+      "batiments_XK0faa4_mCQ.jpg",
+      "batiments_YDarsL40neU.jpg",
+      "batiments_WHPsxhB4mWQ.jpg"
+    ]
+  },
+  {
+    "user_id": 4,
+    "favorite_colors": [
+      "silver",
+      "darkolivegreen",
+      "yellowgreen"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "green",
+      "animal",
+      "landscape wallpaper"
+    ],
+    "prefered_images": [
+      "paysage__RBcxo9AU-U.jpg",
+      "paysage_K2s_YE031CA.jpg",
+      "animaux_vfpEGM0RCk4.jpg",
+      "animaux_djswadct1ps.jpg",
+      "animaux_4AmyOdXZAQc.jpg"
+    ]
+  },
+  {
+    "user_id": 5,
+    "favorite_colors": [
+      "darkslategray",
+      "lightgray",
+      "dimgray"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "grey",
+      "dark",
+      "architecture"
+    ],
+    "prefered_images": [
+      "paysage_zAjdgNXsMeg.jpg",
+      "paysage_DKix6Un55mw.jpg",
+      "paysage_3Kv48NS4WUU.jpg",
+      "batiments_Sfn8f32ZIj0.jpg",
+      "batiments_Sc5RKXLBjGg.jpg",
+      "batiments_o-dkYSvidB4.jpg"
+    ]
+  },
+  {
+    "user_id": 6,
+    "favorite_colors": [
+      "darkolivegreen",
+      "gray",
+      "darkslategray"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "green",
+      "animal",
+      "summer"
+    ],
+    "prefered_images": [
+      "animaux_6GMq7AGxNbE.jpg",
+      "animaux_CQl3Y5bV6FA.jpg",
+      "animaux_XucH5JNRFig.jpg",
+      "paysage_ZVbv1akA-l4.jpg",
+      "paysage_XNIjmb6Ax04.jpg",
+      "paysage_-SO3JtE3gZo.jpg"
+    ]
+  },
+  {
+    "user_id": 7,
+    "favorite_colors": [
+      "rosybrown",
+      "lightgray",
+      "cadetblue"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "blue",
+      "architecture",
+      "minimal"
+    ],
+    "prefered_images": [
+      "batiments_Lk-nu_hX6ms.jpg",
+      "paysage_twukN12EN7c.jpg",
+      "paysage_r9RW20TrQ0Y.jpg",
+      "paysage_KMn4VEeEPR8.jpg",
+      "paysage_CSpjU6hYo_0.jpg",
+      "batiments_YDarsL40neU.jpg",
+      "batiments_mNJ7c7-XCZQ.jpg"
+    ]
+  }
+]
